@@ -9,11 +9,11 @@ Python and Selenium.
 
 ## Prerequisites
 
-python 3.11
-Chromedriver corresponding to your chrome browser.
-Kindly pay attention to version compatibility between your driver and your browser. 
-Selenium 4.9.1
-
+1. python 3.11
+2. Chromedriver corresponding to your chrome browser.
+3. Kindly pay attention to version compatibility between your driver and your browser. 
+4. Selenium 4.9.1
+5. Pytest
 
 ## Setup 
 
