@@ -24,4 +24,4 @@ Python and Selenium.
 
 ## Execute the code
 
-Run: "pytest tests/test_purchase_journey.py
+Run: "pytest tests/test_purchase_journey.py or "pipenv run python -m pytest tests/test_purchase_journey.py or "python tests/test_purchase_journey.py"
