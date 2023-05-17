@@ -24,4 +24,11 @@ Python and Selenium.
 
 ## Execute the code
 
-Run: "pytest tests/test_purchase_journey.py or "pipenv run python -m pytest tests/test_purchase_journey.py or "python tests/test_purchase_journey.py"
+Run: "pytest tests/test_purchase_journey.py or "pipenv run python -m pytest tests/test_purchase_journey.py"
+or "python tests/test_purchase_journey.py"
+
+
+## Explanation video
+
+Here is the  <a href="https://drive.google.com/file/d/1uLiB1yuyByxa65LDwZhva_Yr4eXvr1lc/view?usp=sharing" 
+target="_blank">explanation video</a>.

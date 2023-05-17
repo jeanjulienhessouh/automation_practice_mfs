@@ -1,2 +1,6 @@
 .vscode
 .pytest_cache
+.pytest_cache
+.idea/workspace.xml
+tests/__pycache__/
+
