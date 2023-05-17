@@ -3,4 +3,5 @@
 .pytest_cache
 .idea/workspace.xml
 tests/__pycache__/
+.idea
 
